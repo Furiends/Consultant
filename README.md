@@ -1,2 +1,2 @@
 # Consultant
-Consultants
+For consultants
